@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": ".",
+      "name": "springroll-task-kanban"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.git": true,
+      "**/node_modules": true,
+      "**/dist": true,
+      "**/.DS_Store": true
+    }
+  }
+}
